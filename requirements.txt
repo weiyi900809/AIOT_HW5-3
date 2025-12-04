@@ -1,0 +1,12 @@
+streamlit
+python-pptx
+Pillow
+pandas
+numpy
+python-dotenv
+black
+flake8
+mypy
+pytest
+pytest-cov
+gunicorn
